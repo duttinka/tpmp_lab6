@@ -1,0 +1,26 @@
+# Xcode
+build/
+DerivedData/
+*.xcscheme
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.swiftpm/
+*Підтримка/
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.build/
+*.xcodeproj
+Packages/
+*Package.resolved
+*Package.swift
+
+# Игнорировать системные файлы macOS
+.DS_Store
